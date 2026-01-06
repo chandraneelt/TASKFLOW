@@ -3,8 +3,8 @@
 ## 📋 **Project Information**
 
 **Project Name:** TaskFlow - Task Management Application  
-**Developer:** [Your Name]  
-**Submission Date:** [Current Date]  
+**Developer:** Chandraneel T  
+**GitHub:** https://github.com/chandraneelt  
 **Assignment:** Full-Stack Developer Intern Technical Assessment  
 
 ---
@@ -12,9 +12,9 @@
 ## 🌐 **Live Demo Links**
 
 ### **Production URLs:**
-- **Frontend Application:** `https://taskflow-[yourname].vercel.app`
-- **Backend API:** `https://taskflow-backend-[yourname].railway.app`
-- **GitHub Repository:** `https://github.com/[yourusername]/taskflow`
+- **Frontend Application:** `https://taskflow-chandraneelt.vercel.app`
+- **Backend API:** `https://taskflow-backend-production.railway.app`
+- **GitHub Repository:** `https://github.com/chandraneelt/taskflow`
 
 ### **Test Credentials:**
 ```
@@ -109,7 +109,7 @@ Password: demo123
 ### **Quick Start:**
 ```bash
 # Clone repository
-git clone https://github.com/[yourusername]/taskflow.git
+git clone https://github.com/chandraneelt/taskflow.git
 cd taskflow
 
 # Install dependencies
@@ -267,9 +267,9 @@ cd ../frontend && npm run dev
 
 ## 📞 **Contact Information**
 
-**Developer:** [Your Name]  
+**Developer:** Chandraneel T  
 **Email:** [your.email@example.com]  
-**GitHub:** [https://github.com/yourusername]  
+**GitHub:** https://github.com/chandraneelt  
 **LinkedIn:** [https://linkedin.com/in/yourprofile]  
 
 ---

@@ -24,6 +24,11 @@
     "jest": "^29.7.0"
   },
   "keywords": ["express", "mongodb", "jwt", "authentication", "tasks"],
-  "author": "Your Name",
-  "license": "MIT"
+  "author": "Chandraneel T",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chandraneelt/taskflow.git"
+  },
+  "homepage": "https://github.com/chandraneelt/taskflow#readme"
 }

@@ -11,7 +11,7 @@
    git add .
    git commit -m "Initial TaskFlow deployment"
    git branch -M main
-   git remote add origin https://github.com/yourusername/taskflow.git
+   git remote add origin https://github.com/chandraneelt/taskflow.git
    git push -u origin main
    ```
 
@@ -56,8 +56,8 @@
    - Add to Railway environment variables
 
 **Result**: 
-- Frontend: `https://taskflow-yourusername.vercel.app`
-- Backend: `https://taskflow-backend.railway.app`
+- Frontend: `https://taskflow-chandraneelt.vercel.app`
+- Backend: `https://taskflow-backend-production.railway.app`
 
 ---
 
