@@ -7,8 +7,8 @@ import { AuthProvider } from '@/contexts/AuthContext'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Full-Stack App',
-  description: 'A modern web application with authentication and dashboard',
+  title: 'TaskFlow - Task Management Application',
+  description: 'Professional task management application with Next.js, Node.js, and MongoDB',
 }
 
 export default function RootLayout({
