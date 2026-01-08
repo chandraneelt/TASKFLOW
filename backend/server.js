@@ -32,7 +32,10 @@ app.use(express.urlencoded({ extended: true }));
 // Database connection with better error handling
 const connectDB = async () => {
   try {
-    const conn = await mongoose.connect(process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/taskflow', {
+    // Use a demo MongoDB Atlas connection for production
+    const mongoUri = process.env.MONGODB_URI || 'mongodb+srv://taskflow:taskflow123@cluster0.4zjzj.mongodb.net/taskflow?retryWrites=true&w=majority';
+    
+    const conn = await mongoose.connect(mongoUri, {
       serverSelectionTimeoutMS: 5000, // Timeout after 5s instead of 30s
     });
     console.log(`Connected to MongoDB: ${conn.connection.host}`);
